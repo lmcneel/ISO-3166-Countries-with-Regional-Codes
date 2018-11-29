@@ -1,0 +1,9 @@
+{
+  "name": "ISO-3166-Countries-with-Regional-Codes",
+  "version": "7.0.0",
+  "description": "ISO 3166-1 country lists merged with their UN Geoscheme regional codes in ready-to-use JSON, XML, CSV data sets",
+  "main": "all/all.json",
+  "repository": "git@github.com:lmcneel/ISO-3166-Countries-with-Regional-Codes.git",
+  "author": "Luke Duncalfe <@lukes>, Tish McNeel <latisha.mcneel@gmail.com>",
+  "license": "Creative Commons Attribution-ShareAlike 4.0 International License"
+}
